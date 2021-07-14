@@ -1,5 +1,6 @@
 Hello! Welcome to my humble github, I am Benjamin Gramsch and I'll be your guide
-Master in Spatial, Transport and Environmental Economics
+
+MSc. in Spatial, Transport and Environmental Economics
 
 My main interest is to use spatial and statistical analysis in combination with Machine Learning to create more sustainable and equitable cities
 
