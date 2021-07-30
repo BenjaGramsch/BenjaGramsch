@@ -1,4 +1,4 @@
-Hello! Welcome to my humble github
+Hello! Welcome to my github
 
 I am Benjamin Gramsch, MSc. in Spatial, Transport and Environmental Economics
 
